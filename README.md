@@ -7,7 +7,7 @@
 5. Click "New pull request"
 6. Make sure your changes are in order
 7. Click "Create pull request" (Make sure base is "master")
-8. Type some comments (Do it cocksucker)
+8. Type some comments (Do it cocksucker) to make a comment use <!-- ... -->
 9. Wait
   
 You're all fags
