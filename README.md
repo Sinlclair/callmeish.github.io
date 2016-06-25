@@ -1,5 +1,5 @@
 # How to Into This Site
-<img src="http://i1303.photobucket.com/albums/ag153/ranzero15/Reaction%20Pic/ReadNiggaRead_zpse82079de.gif" alt="Read Nigga" style="width:449px;height:252px;">
+<img src="http://i1303.photobucket.com/albums/ag153/ranzero15/Reaction%20Pic/ReadNiggaRead_zpse82079de.gif" alt="Read Nigga" style="width:449px;height:252px;"><br>
 1. Create github account. Shit's free. Do it faggot. (<a href="https://github.com/join">github.com/join</a>)
 2. Go <a href="https://github.com/callmeish/callmeish.github.io">here</a>.
 3. Click "Fork" (Top right corner)
