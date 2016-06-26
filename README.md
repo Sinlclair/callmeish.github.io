@@ -4,6 +4,7 @@
 2. Go <a href="https://github.com/callmeish/callmeish.github.io">here</a>.
 3. Click "Fork" (Top right corner)
 4. Make/Edit files as needed (This should all be done in html)
+5. test code at (<a href="http://www.w3schools.com/html/tryit.asp?filename=tryhtml_default</a>
 5. Click "New pull request"
 6. Make sure your changes are in order
 7. Click "Create pull request" (Make sure base is "master")
