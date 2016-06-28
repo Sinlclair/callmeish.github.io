@@ -590,45 +590,45 @@ figure.effect-zoe:hover p.icon-links a:first-child {
 }
 
 
-/* plan section styles
+/* nyanners section styles
 /* ========================================== */
-#plan {
-  background: url('../images/plan-bg.jpg') 50% 0 repeat-y fixed;
+#nyanners {
+  background: url('../images/nyanners-bg.jpg') 50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center;
   color: #ffffff;
 }
 
-#plan .plan {
+#nyanners .nyanners {
   border: 4px solid #ffffff;
   padding: 40px;
   transition: all 0.4s linear;
   margin-bottom: 20px;
 }
 
-#plan .plan:hover {
+#nyanners .nyanners:hover {
   background: #000000;
   border-color: #ffa400;
 }
 
-#plan .plan-title {
-  font-size: 42px;
+#nyanners .nyanners-title {
+  font-size: 24px;
 }
 
-#plan .plan-title, #plan .plan-price {
+#nyanners .nyanners-title, #nyanners .nyanners-price {
   padding: 16px;
 }
 
-#plan small {
+#nyanners small {
   color: #ffa400;
 }
 
-#plan .plan-list li {
+#nyanners .nyanners-list li {
   padding: 10px 0 10px 0;
 }
 
-#plan .plan-button .btn {
+#nyanners .nyanners-button .btn {
   background: transparent;
   border: 4px solid #ffffff;
   border-radius: 0;
@@ -641,7 +641,7 @@ figure.effect-zoe:hover p.icon-links a:first-child {
   transition: all 0.4s ease-in-out;
 }
 
-#plan .plan-button .btn:hover {
+#nyanners .nyanners-button .btn:hover {
   background: #ffffff;
   color: #ffa400;
   border-color: transparent;
