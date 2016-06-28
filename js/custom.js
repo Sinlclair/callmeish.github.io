@@ -65,6 +65,7 @@ $(document).ready(function() {
   $(document).ready(function() {
     $("#owl-work").owlCarousel({
       autoPlay: 3000,
+      stopOnHover: true,
       items : 3,
       itemsDesktop : [1199,3],
       itemsDesktopSmall : [979,3],
